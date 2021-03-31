@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1612181316 source:c:\users\visci\desktop\matr717925_01_02_21\funzioni.c
+	"funzioni.h"
+
+1612181040 c:\users\visci\desktop\matr717925_01_02_21\funzioni.h
+	"gestione_dati.h"
+
+1612180239 c:\users\visci\desktop\matr717925_01_02_21\gestione_dati.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1612181040 source:c:\users\visci\desktop\matr717925_01_02_21\gestione_dati.c
+	"gestione_dati.h"
+
+1612177825 source:c:\users\visci\desktop\matr717925_01_02_21\main.c
+	"gestione_dati.h"
+
+1612179334 source:c:\users\visci\desktop\matr717925_01_02_21\gestione_file.c
+	"gestione_file.h"
+
+1612179334 c:\users\visci\desktop\matr717925_01_02_21\gestione_file.h
+	"gestione_dati.h"
+

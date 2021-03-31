@@ -1,0 +1,5 @@
+1$Dhl$Milano$farmaci$23
+2$American$Torino$tabacco$12
+3$Posteitaliane$Bologna$lusso$95
+4$Gls$Firenze$abbigliamento$31
+5$Bartolini$Lucca$macchine$200
