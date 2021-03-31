@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1612181316 source:c:\users\visci\desktop\matr717925_01_02_21\funzioni.c
+	"funzioni.h"
+
+1612181040 c:\users\visci\desktop\matr717925_01_02_21\funzioni.h
+	"gestione_dati.h"
+
+1612180239 c:\users\visci\desktop\matr717925_01_02_21\gestione_dati.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1612181040 source:c:\users\visci\desktop\matr717925_01_02_21\gestione_dati.c
+	"gestione_dati.h"
+
+1612177825 source:c:\users\visci\desktop\matr717925_01_02_21\main.c
+	"gestione_dati.h"
+
+1612179334 source:c:\users\visci\desktop\matr717925_01_02_21\gestione_file.c
+	"gestione_file.h"
+
+1612179334 c:\users\visci\desktop\matr717925_01_02_21\gestione_file.h
+	"gestione_dati.h"
+
+1612181316 source:c:\users\visci\onedrive\documenti\matr717925_01_02_21 - copia\funzioni.c
+	"funzioni.h"
+
+1612181040 c:\users\visci\onedrive\documenti\matr717925_01_02_21 - copia\funzioni.h
+	"gestione_dati.h"
+
+1612464505 c:\users\visci\onedrive\documenti\matr717925_01_02_21 - copia\gestione_dati.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1612516529 source:c:\users\visci\onedrive\documenti\matr717925_01_02_21 - copia\gestione_dati.c
+	"gestione_dati.h"
+
+1612438681 source:c:\users\visci\onedrive\documenti\matr717925_01_02_21 - copia\gestione_file.c
+	"gestione_file.h"
+
+1612473134 c:\users\visci\onedrive\documenti\matr717925_01_02_21 - copia\gestione_file.h
+	"gestione_dati.h"
+
+1612433276 source:c:\users\visci\onedrive\documenti\matr717925_01_02_21 - copia\main.c
+	"gestione_dati.h"
+
+1612181316 source:c:\users\admin\onedrive\documenti\matr717925_01_02_21 - copia\funzioni.c
+	"funzioni.h"
+
+1612181040 c:\users\admin\onedrive\documenti\matr717925_01_02_21 - copia\funzioni.h
+	"gestione_dati.h"
+
+1612464505 c:\users\admin\onedrive\documenti\matr717925_01_02_21 - copia\gestione_dati.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1612516255 source:c:\users\admin\onedrive\documenti\matr717925_01_02_21 - copia\gestione_dati.c
+	"gestione_dati.h"
+
+1612438681 source:c:\users\admin\onedrive\documenti\matr717925_01_02_21 - copia\gestione_file.c
+	"gestione_file.h"
+
+1612473134 c:\users\admin\onedrive\documenti\matr717925_01_02_21 - copia\gestione_file.h
+	"gestione_dati.h"
+
+1612433276 source:c:\users\admin\onedrive\documenti\matr717925_01_02_21 - copia\main.c
+	"gestione_dati.h"
+
+1616182104 source:c:\users\visci\onedrive\documenti\visual studio code\git\appello 01_02_21 passato\programmazione difensiva - doxygen\funzioni.c
+	"funzioni.h"
+
+1616182099 c:\users\visci\onedrive\documenti\visual studio code\git\appello 01_02_21 passato\programmazione difensiva - doxygen\funzioni.h
+	"gestione_dati.h"
+
+1616182086 c:\users\visci\onedrive\documenti\visual studio code\git\appello 01_02_21 passato\programmazione difensiva - doxygen\gestione_dati.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1616182094 source:c:\users\visci\onedrive\documenti\visual studio code\git\appello 01_02_21 passato\programmazione difensiva - doxygen\gestione_dati.c
+	"gestione_dati.h"
+
+1616182082 source:c:\users\visci\onedrive\documenti\visual studio code\git\appello 01_02_21 passato\programmazione difensiva - doxygen\gestione_file.c
+	"gestione_file.h"
+
+1616182075 c:\users\visci\onedrive\documenti\visual studio code\git\appello 01_02_21 passato\programmazione difensiva - doxygen\gestione_file.h
+	"gestione_dati.h"
+
+1616182201 source:c:\users\visci\onedrive\documenti\visual studio code\git\appello 01_02_21 passato\programmazione difensiva - doxygen\main.c
+	"gestione_dati.h"
+

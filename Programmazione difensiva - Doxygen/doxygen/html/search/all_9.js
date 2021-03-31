@@ -1,0 +1,14 @@
+var searchData=
+[
+  ['scritturapacchi_34',['scritturaPacchi',['../gestione__file_8c.html#a494d0bc323838440440031da03ee2a71',1,'scritturaPacchi(int nPacchi):&#160;gestione_file.c'],['../gestione__file_8h.html#a494d0bc323838440440031da03ee2a71',1,'scritturaPacchi(int nPacchi):&#160;gestione_file.c']]],
+  ['scritturasufile_35',['scritturaSuFile',['../gestione__file_8c.html#a2fc8b039db9b96cac0d056b5b9279d3f',1,'scritturaSuFile(int i):&#160;gestione_file.c'],['../gestione__file_8h.html#a2fc8b039db9b96cac0d056b5b9279d3f',1,'scritturaSuFile(int i):&#160;gestione_file.c']]],
+  ['selezionacodice_36',['selezionaCodice',['../gestione__dati_8c.html#ae815c60ac4532ec3e7287d9ac3a94ee1',1,'selezionaCodice(int codice):&#160;gestione_dati.c'],['../gestione__dati_8h.html#ae815c60ac4532ec3e7287d9ac3a94ee1',1,'selezionaCodice(int codice):&#160;gestione_dati.c']]],
+  ['selezione_37',['selezione',['../main_8c.html#a6a854e87b3c178bb700268dd96ca7587',1,'main.c']]],
+  ['setcodice_38',['setCodice',['../gestione__dati_8c.html#a5d557043ba2ca435efc31e3fafd9477f',1,'setCodice(int i, int codice):&#160;gestione_dati.c'],['../gestione__dati_8h.html#a5d557043ba2ca435efc31e3fafd9477f',1,'setCodice(int i, int codice):&#160;gestione_dati.c']]],
+  ['setcorriere_39',['setCorriere',['../gestione__dati_8c.html#a78d9254ef0520731036356ea5874d766',1,'setCorriere(int i, char *corriere):&#160;gestione_dati.c'],['../gestione__dati_8h.html#a78d9254ef0520731036356ea5874d766',1,'setCorriere(int i, char *corriere):&#160;gestione_dati.c']]],
+  ['setdestinazione_40',['setDestinazione',['../gestione__dati_8c.html#a89b89985c69f9d6202c26c8c7f2b35c8',1,'setDestinazione(int i, char *destinazione):&#160;gestione_dati.c'],['../gestione__dati_8h.html#a89b89985c69f9d6202c26c8c7f2b35c8',1,'setDestinazione(int i, char *destinazione):&#160;gestione_dati.c']]],
+  ['setpeso_41',['setPeso',['../gestione__dati_8c.html#a19faec11894f68fdc5814dfa7d1d2021',1,'setPeso(int i, int peso):&#160;gestione_dati.c'],['../gestione__dati_8h.html#a19faec11894f68fdc5814dfa7d1d2021',1,'setPeso(int i, int peso):&#160;gestione_dati.c']]],
+  ['settipologia_42',['setTipologia',['../gestione__dati_8c.html#ac1809bab2887778e4279e3446385ce7d',1,'setTipologia(int i, char *tipologia):&#160;gestione_dati.c'],['../gestione__dati_8h.html#ac1809bab2887778e4279e3446385ce7d',1,'setTipologia(int i, char *tipologia):&#160;gestione_dati.c']]],
+  ['stampapacchi_43',['stampaPacchi',['../gestione__dati_8c.html#a973adbcef579f11f52ffe35ebaeb39aa',1,'stampaPacchi(int nPacchi):&#160;gestione_dati.c'],['../gestione__dati_8h.html#a973adbcef579f11f52ffe35ebaeb39aa',1,'stampaPacchi(int nPacchi):&#160;gestione_dati.c']]],
+  ['stampariga_44',['stampaRiga',['../gestione__dati_8c.html#afdcdfd32ff41e3fca5f67e9dc89dd110',1,'stampaRiga(int i):&#160;gestione_dati.c'],['../gestione__dati_8h.html#afdcdfd32ff41e3fca5f67e9dc89dd110',1,'stampaRiga(int i):&#160;gestione_dati.c']]]
+];

@@ -1,0 +1,27 @@
+var gestione__dati_8h =
+[
+    [ "pacchi", "structpacchi.html", "structpacchi" ],
+    [ "MAXCORRIERE", "gestione__dati_8h.html#ab1e27c829849f828695e9fe80a573398", null ],
+    [ "MAXDESTINAZIONE", "gestione__dati_8h.html#ac5bb68772fa5c4a0d4d9f2290a8e7505", null ],
+    [ "MAXFILE", "gestione__dati_8h.html#a714b2485a6dd312e37226e1f833728a9", null ],
+    [ "MAXPACCHI", "gestione__dati_8h.html#ab56d734687a70076b122af81e10e7652", null ],
+    [ "MAXPACCHITOTALI", "gestione__dati_8h.html#aeb592ae7df4bc3039ea0378da82bafee", null ],
+    [ "MAXTIPOLOGIA", "gestione__dati_8h.html#ab2d39c22c8351dc9b745bfd6fb83fcd5", null ],
+    [ "controlloDuplicati", "gestione__dati_8h.html#a6692a56aa7c9a94f24fd89412facf5e5", null ],
+    [ "controlloPeso", "gestione__dati_8h.html#adfb7eed775e74921b0149fa158133e35", null ],
+    [ "getCodice", "gestione__dati_8h.html#a030aabe5f52cca31f05c5bf41e848308", null ],
+    [ "getCorriere", "gestione__dati_8h.html#a8863b8bd4ef356c490568f7a656607dc", null ],
+    [ "getDestinazione", "gestione__dati_8h.html#aeb783830f7aa36f67da5027f3eaa1c81", null ],
+    [ "getPeso", "gestione__dati_8h.html#a1c8a26b3434ff0fa9545052e87ff7dd4", null ],
+    [ "getTipologia", "gestione__dati_8h.html#ae9eb1316cc88f9596cdf46282bb12f09", null ],
+    [ "selezionaCodice", "gestione__dati_8h.html#ae815c60ac4532ec3e7287d9ac3a94ee1", null ],
+    [ "setCodice", "gestione__dati_8h.html#a5d557043ba2ca435efc31e3fafd9477f", null ],
+    [ "setCorriere", "gestione__dati_8h.html#a78d9254ef0520731036356ea5874d766", null ],
+    [ "setDestinazione", "gestione__dati_8h.html#a89b89985c69f9d6202c26c8c7f2b35c8", null ],
+    [ "setPeso", "gestione__dati_8h.html#a19faec11894f68fdc5814dfa7d1d2021", null ],
+    [ "setTipologia", "gestione__dati_8h.html#ac1809bab2887778e4279e3446385ce7d", null ],
+    [ "stampaPacchi", "gestione__dati_8h.html#a973adbcef579f11f52ffe35ebaeb39aa", null ],
+    [ "stampaRiga", "gestione__dati_8h.html#afdcdfd32ff41e3fca5f67e9dc89dd110", null ],
+    [ "arrayPacchi", "gestione__dati_8h.html#aaaa46efbabc6b9e6b96223076d146881", null ],
+    [ "ptr", "gestione__dati_8h.html#aa79194a5486deb48ea2806f4043033a7", null ]
+];
