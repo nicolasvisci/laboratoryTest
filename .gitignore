@@ -1,0 +1,6 @@
+bin
+doxygen
+
+*.cbp
+*.depend
+*.layout
