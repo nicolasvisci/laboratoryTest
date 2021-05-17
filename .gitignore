@@ -1,2 +1,4 @@
-/Prima parte esame/bin/Debug/*.exe
-/Programmazione difensiva - Doxygen/bin/Debug/*.exe
+*.exe
+*.cbp
+*.depend
+*.layout
