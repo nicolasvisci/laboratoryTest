@@ -1,5 +1,5 @@
 #include "gestione_dati.h"
-//nicolas
+
 /**
 * @file main.c
 *
